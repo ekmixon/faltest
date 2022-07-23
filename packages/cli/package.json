@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "@faltest/mocha": "^6.0.0",
-    "@faltest/remote": "^6.0.0",
+    "@faltest/remote": "^7.0.0",
     "@faltest/utils": "^4.0.0",
     "mocha": "^9.0.0",
     "threads": "^1.6.1",
