@@ -10,7 +10,7 @@
   },
   "devDependencies": {
     "@faltest/chai": "^4.0.0",
-    "@faltest/cli": "^4.0.0",
+    "@faltest/cli": "^5.0.0",
     "@faltest/lifecycle": "^6.0.0",
     "@faltest/mocha": "^6.0.0",
     "@faltest/page-objects": "^5.0.0",
