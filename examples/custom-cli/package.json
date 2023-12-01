@@ -12,7 +12,7 @@
     "node": ">=12.13"
   },
   "devDependencies": {
-    "@faltest/cli": "^4.0.0",
-    "@faltest/lifecycle": "^6.0.0"
+    "@faltest/cli": "^6.0.0",
+    "@faltest/lifecycle": "^9.0.5"
   }
 }
